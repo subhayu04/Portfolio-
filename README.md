@@ -78,9 +78,9 @@
 
 <section>
   <h2>Contact</h2>
-  <p>Email: your-email@example.com</p>
+  <p>Email: subhayupatra04@gmail.com</p>
   <p>LinkedIn: linkedin.com/in/yourprofile</p>
-  <p>GitHub: github.com/yourprofile</p>
+  <p>GitHub: github.com/subhayu04</p>
 </section>
 
 <footer>
