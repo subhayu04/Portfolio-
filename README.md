@@ -79,7 +79,7 @@
 <section>
   <h2>Contact</h2>
   <p>Email: subhayupatra04@gmail.com</p>
-  <p>LinkedIn: linkedin.com/in/yourprofile</p>
+  <p>LinkedIn: linkedin.com/in/subhayupatra</p>
   <p>GitHub: github.com/subhayu04</p>
 </section>
 
