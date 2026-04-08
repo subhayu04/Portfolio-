@@ -21,7 +21,7 @@
 <body>
 
 <header>
-  <h1>Saurav Suman</h1>
+  <h1>Subhayu patra</h1>
   <p class="tagline">Aspiring Software Developer | Problem Solver</p>
   <p>Passionate about coding, data structures, and building smart solutions.</p>
   <button class="btn">View My Work</button>
